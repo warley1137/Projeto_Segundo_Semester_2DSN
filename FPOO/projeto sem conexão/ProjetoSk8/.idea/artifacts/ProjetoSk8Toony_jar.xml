@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjetoSk8Toony:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjetoSk8Toony_jar</output-path>
+    <root id="archive" name="ProjetoSk8Toony.jar">
+      <element id="module-output" name="ProjetoSk8Toony" />
+    </root>
+  </artifact>
+</component>
